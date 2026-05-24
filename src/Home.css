@@ -1,0 +1,9 @@
+@scope (.RootHome) {
+  h1 {
+    color: green;
+  }
+
+  .sample {
+    color: pink;
+  }
+}
